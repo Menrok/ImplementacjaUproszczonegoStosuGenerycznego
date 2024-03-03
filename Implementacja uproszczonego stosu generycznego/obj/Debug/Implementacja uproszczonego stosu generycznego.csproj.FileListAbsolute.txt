@@ -1,0 +1,14 @@
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.exe.config
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.exe
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.pdb
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.exe
+C:\Users\PH\Desktop\PROJEKTY\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.pdb
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.exe.config
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.exe
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\bin\Debug\Implementacja uproszczonego stosu generycznego.pdb
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.exe
+C:\Users\PH\Desktop\C#\Implementacja uproszczonego stosu generycznego\Implementacja uproszczonego stosu generycznego\obj\Debug\Implementacja uproszczonego stosu generycznego.pdb
